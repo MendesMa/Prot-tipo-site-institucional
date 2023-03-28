@@ -1,2 +1,2 @@
-console.log ("Protótipo do site institucional Aquatec ")
+Protótipo do site institucional Aquatec
 
